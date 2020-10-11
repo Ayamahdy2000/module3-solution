@@ -1,0 +1,29 @@
+header nav.navbar {
+  background-color: #999;
+  width: 100%;
+  border: 2px solid black;
+  padding: 0;
+}
+header nav.navbar .navbar-brand {
+  font-family: "Secular One", sans-serif;
+  font-size: 25px;
+}
+header nav.navbar .navbar-nav {
+  width: 100%;
+}
+header nav.navbar .navbar-nav .nav-link {
+  border-bottom: 1px solid black;
+  color: black;
+}
+
+section.meun h1 {
+  font-family: "Ubuntu", sans-serif;
+}
+section.meun .meun-card {
+  background-color: #999;
+}
+section.meun .meun-card h3 {
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=style.css.map */
